@@ -1,0 +1,13 @@
+/* main, body, fonts and background colors here */
+
+* {
+  font-family: times;
+}
+
+body {
+  background: #fff;
+}
+
+input {
+  font-family: 'Patrick Hand', cursive;
+}
